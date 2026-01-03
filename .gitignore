@@ -1,0 +1,9 @@
+# Ignore keras training models
+*.keras
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
